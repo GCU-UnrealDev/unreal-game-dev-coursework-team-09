@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rejoi/OneDrive/Documents/GitHub/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/Interact_interface.uasset",
+				"C:/Users/rejoi/OneDrive/Documents/GitHub/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/rejoi/OneDrive/Documents/GitHub/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/Doorbp.uasset",
+				"C:/Users/rejoi/OneDrive/Documents/GitHub/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/StarterContent/Props/SM_Door.uasset",
+				"C:/Users/rejoi/OneDrive/Documents/GitHub/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/3V/DJS94AZEYBWUBOEJF08BFA.uasset",
+				"C:/Users/rejoi/OneDrive/Documents/GitHub/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/5I/CCBZ0YRQI7K0FKGT6H0YKL.uasset",
+				"C:/Users/rejoi/OneDrive/Documents/GitHub/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SQ/YBBIGERQUIMMTC39VFDR10.uasset",
 				"C:/Users/macmi/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/EnemyNPC/Base_Enemy_NPC_Character.uasset",
 				"C:/Users/macmi/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/EnemyNPC/Base_Enemy_Anim_BP.uasset",
 				"C:/Users/macmi/unreal-game-dev-coursework-team-09/Unreal_Corsework/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/QF/TWARH5K537F682LDT0FMFW.uasset",
